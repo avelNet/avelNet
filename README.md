@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- Анимированная строка -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&center=true&vCenter=true&lines=Hi!+%F0%9F%91%8B+I+Am+Pavel!" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 
-<!--
-**avelNet/avelNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![logo](https://raw.githubusercontent.com/BaggerFast/BaggerFast/main/assets/github-snake.svg)
 
-Here are some ideas to get you started:
+<h2 align="center">🛠Skills</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,rust" />
+</p>
+
+---
+
+<h3 align="center">🚀 Keep Learning. Keep Building.</h3>
