@@ -13,7 +13,7 @@
 <h2 align="center">🛠Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,rust" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,java" />
 </p>
 
 ---
