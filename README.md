@@ -18,4 +18,4 @@
 
 ---
 
-<h3 align="center">🚀 Keep Learning. Keep Building.</h3>
+<h3 align="center">🚀 Write once.Run anywhere</h3>
